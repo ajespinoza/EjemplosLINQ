@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoLinq", "CursoLinq\CursoLinq.csproj", "{42940C9F-6958-4C26-BBDD-D67EA264863C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42940C9F-6958-4C26-BBDD-D67EA264863C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42940C9F-6958-4C26-BBDD-D67EA264863C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42940C9F-6958-4C26-BBDD-D67EA264863C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42940C9F-6958-4C26-BBDD-D67EA264863C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B03E1A7-B416-4757-A9D5-66BB92D3458C}
+	EndGlobalSection
+EndGlobal
